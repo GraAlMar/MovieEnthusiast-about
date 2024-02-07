@@ -1,4 +1,4 @@
-## MovieEnthusiast-about
+# MovieEnthusiast-about
 
 
 This is a project I created at the end of the web module, the second one out of the four modules in my Full Stack Developer course at Codecool. The purpose of this project was to deepen my understanding of React and non-relational databases by creating a tool for movie and TV show lovers.
